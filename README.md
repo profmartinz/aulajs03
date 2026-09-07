@@ -1,4 +1,3 @@
-```markdown
 # ⚡ Aula 03: Manipulação de Inputs, Tratamento de Strings e Exibição no DOM
 
 ## Aula
@@ -90,5 +89,3 @@ meu-projeto/
 
 👨‍🏫 **Professor:** MSc. Tiago Martins Ribeiro  
 📚 **Disciplina:** Desenvolvimento Web para I.A.
-
-```
