@@ -88,7 +88,7 @@ meu-projeto/
 
 ---
 
-👨‍🏫 Professor: MSc. Tiago Martins Ribeiro
-📚 Disciplina: Desenvolvimento Web para I.A.
+👨‍🏫 **Professor:** MSc. Tiago Martins Ribeiro  
+📚 **Disciplina:** Desenvolvimento Web para I.A.
 
 ```
